@@ -57,10 +57,10 @@ body {
 #header-text {
     position: relative;
     color: #ffffff;
-    font-size: 7em;
+    font-size: 9em;
+    line-height: 1.2em;
     z-index: 1;
     text-align: center;
-    margin-top: 15%;
 }
 
 #road {
